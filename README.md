@@ -7,5 +7,6 @@
 * [TranslationCSAPP](https://github.com/EugeneLiu/translationCSAPP)
 
 ## Logs
-* ✅ lec6 reading 3.6 2020.06.18
-* ✅ lec6 2020.06.19
+* - [X] lec6 reading 3.6 2020.06.18
+* - [X] lec6 2020.06.19
+* - [ ] recitation 4: Bomb Lab
