@@ -13,5 +13,5 @@
 | ✅ | reading 3.6 | 2020.06.18 |
 | ✅ |lec6 video: Machine Prog: Control | 2020.06.19 |
 | ✅ |reading 3.7 | 2020.06.22 |
-| ✅ |lec6 video: Machine Prog: Procedures | 2020.06.22 |
+| ✅ |lec7 video: Machine Prog: Procedures | 2020.06.22 |
 | 🙈 |recitation 4: Bomb Lab| - |
