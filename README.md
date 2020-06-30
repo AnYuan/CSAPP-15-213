@@ -14,4 +14,8 @@
 | ✅ |lec6 video: Machine Prog: Control | 2020.06.19 |
 | ✅ |reading 3.7 | 2020.06.22 |
 | ✅ |lec7 video: Machine Prog: Procedures | 2020.06.22 |
-| 🙈 |recitation 4: Bomb Lab| - |
+| ✅ |recitation 4: Bomb Lab| 2020.06.29 |
+| ✅ |lab2: Bomb Lab | 2020.06.30 |
+| 🙈 |lec8 video: Machine Prog: Data | - |
+| 🙈 |lec9 video: Machine Prog: Advanced | - |
+| 🙈 |lab3: Attack Lab and Stacks | - |
