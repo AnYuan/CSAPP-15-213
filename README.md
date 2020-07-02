@@ -11,12 +11,13 @@
 | Status | Content | Date |
 |--| ----- | -------- |
 | ✅ | reading 3.6 | 2020.06.18 |
-| ✅ |lec6 video: Machine Prog: Control | 2020.06.19 |
-| ✅ |reading 3.7 | 2020.06.22 |
-| ✅ |lec7 video: Machine Prog: Procedures | 2020.06.22 |
-| ✅ |recitation 4: Bomb Lab| 2020.06.29 |
-| ✅ |lab2: Bomb Lab | 2020.06.30 |
-| ✅ |[gdbnotes x86-64](http://csapp.cs.cmu.edu/2e/docs/gdbnotes-x86-64.pdf) | 2020.06.30 |
-| 🙈 |lec8 video: Machine Prog: Data | - |
-| 🙈 |lec9 video: Machine Prog: Advanced | - |
-| 🙈 |lab3: Attack Lab and Stacks | - |
+| ✅ | lec6 video: Machine Prog: Control | 2020.06.19 |
+| ✅ | reading 3.7 | 2020.06.22 |
+| ✅ | lec7 video: Machine Prog: Procedures | 2020.06.22 |
+| ✅ | recitation 4: Bomb Lab| 2020.06.29 |
+| ✅ | lab2: Bomb Lab | 2020.06.30 |
+| ✅ | [gdbnotes x86-64](http://csapp.cs.cmu.edu/2e/docs/gdbnotes-x86-64.pdf) | 2020.06.30 |
+| 🙈 | reading 3.8 - 3.9 | - |
+| 🙈 | lec8 video: Machine Prog: Data | - |
+| 🙈 | lec9 video: Machine Prog: Advanced | - |
+| 🙈 | lab3: Attack Lab and Stacks | - |
