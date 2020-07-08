@@ -17,7 +17,11 @@
 | ✅ | recitation 4: Bomb Lab| 2020.06.29 |
 | ✅ | lab2: Bomb Lab | 2020.06.30 |
 | ✅ | [gdbnotes x86-64](http://csapp.cs.cmu.edu/2e/docs/gdbnotes-x86-64.pdf) | 2020.06.30 |
-| 🙈 | reading 3.8 - 3.9 | - |
-| 🙈 | lec8 video: Machine Prog: Data | - |
-| 🙈 | lec9 video: Machine Prog: Advanced | - |
+| ✅ | reading 3.8 - 3.9 | 2020.07.06 |
+| ✅ | lec8 video: Machine Prog: Data | 2020.07.07 |
+| ✅ | lec9 video: Machine Prog: Advanced | 2020.07.08 |
 | 🙈 | lab3: Attack Lab and Stacks | - |
+| 🙈 | reading 5 | - |
+| 🙈 | lec10 video: Code Optimization | - |
+| 🙈 | reading 6.1 - 6.3 | - |
+| 🙈 | lec11 video: The Memory Hierarchy | - |
