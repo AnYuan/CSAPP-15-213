@@ -20,7 +20,7 @@
 | ✅ | reading 3.8 - 3.9 | 2020.07.06 |
 | ✅ | lec8 video: Machine Prog: Data | 2020.07.07 |
 | ✅ | lec9 video: Machine Prog: Advanced | 2020.07.08 |
-| 🙈 | lab3: Attack Lab and Stacks | - |
+| ✅ | lab3: Attack Lab and Stacks | 2020.07.17 |
 | 🙈 | reading 5 | - |
 | 🙈 | lec10 video: Code Optimization | - |
 | 🙈 | reading 6.1 - 6.3 | - |
