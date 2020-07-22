@@ -21,7 +21,7 @@
 | ✅ | lec8 video: Machine Prog: Data | 2020.07.07 |
 | ✅ | lec9 video: Machine Prog: Advanced | 2020.07.08 |
 | ✅ | lab3: Attack Lab and Stacks | 2020.07.17 |
-| 🙈 | reading 5 | - |
-| 🙈 | lec10 video: Code Optimization | - |
+| ✅ | reading 5 | 2020.07.21 |
+| ✅ | lec10 video: Code Optimization | 2020.07.22 |
 | 🙈 | reading 6.1 - 6.3 | - |
 | 🙈 | lec11 video: The Memory Hierarchy | - |
