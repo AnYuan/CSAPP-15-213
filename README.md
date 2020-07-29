@@ -23,5 +23,7 @@
 | ✅ | lab3: Attack Lab and Stacks | 2020.07.17 |
 | ✅ | reading 5 | 2020.07.21 |
 | ✅ | lec10 video: Code Optimization | 2020.07.22 |
-| 🙈 | reading 6.1 - 6.3 | - |
-| 🙈 | lec11 video: The Memory Hierarchy | - |
+| ✅ | reading 6.1 - 6.3 | 2020.07.26 |
+| ✅ | lec11 video: The Memory Hierarchy | 2020.07.27 |
+| 🙈 | reading 6.4 - 6.7 | 2020.07.29 |
+| 🙈 | lec12 video: Cache Memories | - |
