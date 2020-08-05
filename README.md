@@ -25,5 +25,39 @@
 | ✅ | lec10 video: Code Optimization | 2020.07.22 |
 | ✅ | reading 6.1 - 6.3 | 2020.07.26 |
 | ✅ | lec11 video: The Memory Hierarchy | 2020.07.27 |
-| 🙈 | reading 6.4 - 6.7 | 2020.07.29 |
+| ✅ | reading 6.4 - 6.7 | 2020.08.05 |
 | 🙈 | lec12 video: Cache Memories | - |
+| 🙈 | lab4: Cache Lab | - |
+| 🙈 | reading 7 | - |
+| 🙈 | lec13 video: Linking | - |
+| 🙈 | reading 8.1 - 8.4 | - |
+| 🙈 | lec14 video: ECF: Exceptions & Processes | - |
+| 🙈 | reading 8.5 - 8.8 | - |
+| 🙈 | lec15 video: ECF: Signals & Nonlocal Jumps | - |
+| 🙈 | reading 10 | - |
+| 🙈 | lec16 video: System Level I/O | - |
+| 🙈 | reading 9.1 - 9.6 | - |
+| 🙈 | lec17 video: Virtual Memory: Concepts  | - |
+| 🙈 | reading 9.7 - 9.8 | - |
+| 🙈 | lec18 video: Virtual Memory: Systems  | - |
+| 🙈 | lab5: tsh Lab | - |
+| 🙈 | reading 9.9 | - |
+| 🙈 | lec19 video: Dynamic Memory Allocation: Basic  | - |
+| 🙈 | reading 9.10 - 9.13 | - |
+| 🙈 | lec20 video: Dynamic Memory Allocation: Advanced  | - |
+| 🙈 | reading 11.1 - 11.4 | - |
+| 🙈 | lec21 video: Network Programming (Part I)  | - |
+| 🙈 | reading 11.5 - 11.6 | - |
+| 🙈 | lec22 video: Network Programming (Part II)  | - |
+| 🙈 | reading 12.1 - 12.3 | - |
+| 🙈 | lec23 video: Concurrent programming  | - |
+| 🙈 | reading 12.4 - 12.5.1-3 | - |
+| 🙈 | lab6: malloc Lab | - |
+| 🙈 | lec24 video: Synchronization: Basic  | - |
+| 🙈 | reading 12.5.4-5 - 12.7-8 | - |
+| 🙈 | lec25 video: Synchronization: Advanced  | - |
+| 🙈 | reading 12.6 | - |
+| 🙈 | lec26 video: Thread-Level Parallelism  | - |
+| 🙈 | lec27 video: Future of Computing I   | - |
+| 🙈 | lec26 video: Future of Computing II  | - |
+| 🙈 | lab7: proxy Lab | - |
