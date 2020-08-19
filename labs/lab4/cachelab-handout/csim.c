@@ -74,7 +74,7 @@ void parseArgument(int argc, char *argv[]) {
 
 int simulate() {
   int S = pow(2, s);
-  cache = (Cache)malloc(sizeof(cacheSet) *S);
+  cache = (Cache)malloc(sizeof(cacheSet) * S);
   if (cache == NULL) return -1;
   for (int i = 0; i < S; i++) {
     cache[i] = (cacheSet)calloc(E, sizeof(cacheLine));
