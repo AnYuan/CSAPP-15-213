@@ -27,7 +27,7 @@
 | ✅ | lec11 video: The Memory Hierarchy | 2020.07.27 |
 | ✅ | reading 6.4 - 6.7 | 2020.08.05 |
 | ✅ | lec12 video: Cache Memories | 2020.08.17 |
-| 🙈 | lab4: Cache Lab | - |
+| ✅ | lab4: Cache Lab | 2020.08.19 |
 | 🙈 | reading 7 | - |
 | 🙈 | lec13 video: Linking | - |
 | 🙈 | reading 8.1 - 8.4 | - |
