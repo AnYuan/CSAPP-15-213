@@ -29,8 +29,8 @@
 | ✅ | lec12 video: Cache Memories | 2020.08.17 |
 | ✅ | lab4: Cache Lab | 2020.08.19 |
 | ✅ | reading 7 | 2020.09.02 |
-| 🙈 | lec13 video: Linking | - |
-| 🙈 | reading 8.1 - 8.4 | - |
+| ✅ | lec13 video: Linking | 2020.09.04 |
+| ✅ | reading 8.1 - 8.4 | 2020.09.07 |
 | 🙈 | lec14 video: ECF: Exceptions & Processes | - |
 | 🙈 | reading 8.5 - 8.8 | - |
 | 🙈 | lec15 video: ECF: Signals & Nonlocal Jumps | - |
