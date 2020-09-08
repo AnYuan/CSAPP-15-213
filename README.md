@@ -31,7 +31,7 @@
 | ✅ | reading 7 | 2020.09.02 |
 | ✅ | lec13 video: Linking | 2020.09.04 |
 | ✅ | reading 8.1 - 8.4 | 2020.09.07 |
-| 🙈 | lec14 video: ECF: Exceptions & Processes | - |
+| ✅ | lec14 video: ECF: Exceptions & Processes | 2020.09.08 |
 | 🙈 | reading 8.5 - 8.8 | - |
 | 🙈 | lec15 video: ECF: Signals & Nonlocal Jumps | - |
 | 🙈 | reading 10 | - |
