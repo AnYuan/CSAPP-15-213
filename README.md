@@ -32,8 +32,8 @@
 | ✅ | lec13 video: Linking | 2020.09.04 |
 | ✅ | reading 8.1 - 8.4 | 2020.09.07 |
 | ✅ | lec14 video: ECF: Exceptions & Processes | 2020.09.08 |
-| ✅ | reading 8.5 - 8.8 | - |
-| 🙈 | lec15 video: ECF: Signals & Nonlocal Jumps | - |
+| ✅ | reading 8.5 - 8.8 | 2020.09.11 |
+| ✅ | lec15 video: ECF: Signals & Nonlocal Jumps | 2020.09.17 |
 | 🙈 | reading 10 | - |
 | 🙈 | lec16 video: System Level I/O | - |
 | 🙈 | reading 9.1 - 9.6 | - |
