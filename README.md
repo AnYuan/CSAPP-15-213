@@ -9,6 +9,7 @@
 ## Related video
 
 * [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
+* [与程序员相关的CPU缓存知识](https://coolshell.cn/articles/20793.html)
 
 ## Logs
 
