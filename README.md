@@ -6,6 +6,10 @@
 * [Lecture Videos](https://www.bilibili.com/video/BV1gW411x7Bz?from=search&seid=1643468629720944306)
 * [TranslationCSAPP](https://github.com/EugeneLiu/translationCSAPP)
 
+## Related video
+
+* [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
+
 ## Logs
 
 | Status | Content | Date |
