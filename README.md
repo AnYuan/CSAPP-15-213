@@ -41,7 +41,7 @@
 | ✅ | reading 8.5 - 8.8 | 2020.09.11 |
 | ✅ | lec15 video: ECF: Signals & Nonlocal Jumps | 2020.09.17 |
 | ✅ | reading 10 | 2020.10.04 |
-| 🙈 | lec16 video: System Level I/O | - |
+| ✅ | lec16 video: System Level I/O | 2020.10.04 |
 | 🙈 | reading 9.1 - 9.6 | - |
 | 🙈 | lec17 video: Virtual Memory: Concepts  | - |
 | 🙈 | reading 9.7 - 9.8 | - |
