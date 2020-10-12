@@ -44,7 +44,7 @@
 | ✅ | lec16 video: System Level I/O | 2020.10.04 |
 | ✅ | reading 9.1 - 9.6 | 2020.10.09 |
 | ✅ | lec17 video: Virtual Memory: Concepts  | - |
-| 🙈 | reading 9.7 - 9.8 | - |
+| ✅ | reading 9.7 - 9.8 | - |
 | 🙈 | lec18 video: Virtual Memory: Systems  | - |
 | 🙈 | lab5: tsh Lab | - |
 | 🙈 | reading 9.9 | - |
