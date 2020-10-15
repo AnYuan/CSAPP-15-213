@@ -43,9 +43,9 @@
 | ✅ | reading 10 | 2020.10.04 |
 | ✅ | lec16 video: System Level I/O | 2020.10.04 |
 | ✅ | reading 9.1 - 9.6 | 2020.10.09 |
-| ✅ | lec17 video: Virtual Memory: Concepts  | - |
-| ✅ | reading 9.7 - 9.8 | - |
-| 🙈 | lec18 video: Virtual Memory: Systems  | - |
+| ✅ | lec17 video: Virtual Memory: Concepts  | 2020.10.10 |
+| ✅ | reading 9.7 - 9.8 | 2020.10.13 |
+| ✅ | lec18 video: Virtual Memory: Systems  | 2020.10.15 |
 | 🙈 | lab5: tsh Lab | - |
 | 🙈 | reading 9.9 | - |
 | 🙈 | lec19 video: Dynamic Memory Allocation: Basic  | - |
