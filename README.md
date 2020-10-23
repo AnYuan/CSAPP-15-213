@@ -46,8 +46,7 @@
 | ✅ | lec17 video: Virtual Memory: Concepts  | 2020.10.10 |
 | ✅ | reading 9.7 - 9.8 | 2020.10.13 |
 | ✅ | lec18 video: Virtual Memory: Systems  | 2020.10.15 |
-| 🙈 | lab5: tsh Lab | - |
-| 🙈 | reading 9.9 | - |
+| ✅ | reading 9.9 | 2020.10.23 |
 | 🙈 | lec19 video: Dynamic Memory Allocation: Basic  | - |
 | 🙈 | reading 9.10 - 9.13 | - |
 | 🙈 | lec20 video: Dynamic Memory Allocation: Advanced  | - |
