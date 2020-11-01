@@ -47,7 +47,7 @@
 | ✅ | reading 9.7 - 9.8 | 2020.10.13 |
 | ✅ | lec18 video: Virtual Memory: Systems  | 2020.10.15 |
 | ✅ | reading 9.9 | 2020.10.23 |
-| 🙈 | lec19 video: Dynamic Memory Allocation: Basic  | - |
+| ✅ | lec19 video: Dynamic Memory Allocation: Basic  | 2020.11.01 |
 | 🙈 | reading 9.10 - 9.13 | - |
 | 🙈 | lec20 video: Dynamic Memory Allocation: Advanced  | - |
 | 🙈 | reading 11.1 - 11.4 | - |
