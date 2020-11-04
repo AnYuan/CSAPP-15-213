@@ -48,7 +48,7 @@
 | ✅ | lec18 video: Virtual Memory: Systems  | 2020.10.15 |
 | ✅ | reading 9.9 | 2020.10.23 |
 | ✅ | lec19 video: Dynamic Memory Allocation: Basic  | 2020.11.01 |
-| 🙈 | reading 9.10 - 9.13 | - |
+| ✅ | reading 9.10 - 9.13 | 2020.11.04 |
 | 🙈 | lec20 video: Dynamic Memory Allocation: Advanced  | - |
 | 🙈 | reading 11.1 - 11.4 | - |
 | 🙈 | lec21 video: Network Programming (Part I)  | - |
