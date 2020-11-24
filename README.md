@@ -50,9 +50,9 @@
 | ✅ | lec19 video: Dynamic Memory Allocation: Basic  | 2020.11.01 |
 | ✅ | reading 9.10 - 9.13 | 2020.11.04 |
 | ✅ | lec20 video: Dynamic Memory Allocation: Advanced  | 2020.11.13 |
-| 🙈 | reading 11.1 - 11.4 | - |
-| 🙈 | lec21 video: Network Programming (Part I)  | - |
-| 🙈 | reading 11.5 - 11.6 | - |
+| ✅ | reading 11.1 - 11.4 | 2020.11.19 |
+| ✅ | lec21 video: Network Programming (Part I)  | 2020.11.20 |
+| ✅ | reading 11.5 - 11.6 | 2020.11.23 |
 | 🙈 | lec22 video: Network Programming (Part II)  | - |
 | 🙈 | reading 12.1 - 12.3 | - |
 | 🙈 | lec23 video: Concurrent programming  | - |
