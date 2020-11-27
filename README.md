@@ -53,7 +53,7 @@
 | ✅ | reading 11.1 - 11.4 | 2020.11.19 |
 | ✅ | lec21 video: Network Programming (Part I)  | 2020.11.20 |
 | ✅ | reading 11.5 - 11.6 | 2020.11.23 |
-| 🙈 | lec22 video: Network Programming (Part II)  | - |
+| ✅ | lec22 video: Network Programming (Part II)  | 2020.11.27 |
 | 🙈 | reading 12.1 - 12.3 | - |
 | 🙈 | lec23 video: Concurrent programming  | - |
 | 🙈 | reading 12.4 - 12.5.1-3 | - |
