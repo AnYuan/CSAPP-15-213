@@ -56,13 +56,11 @@
 | ✅ | lec22 video: Network Programming (Part II)  | 2020.11.27 |
 | ✅ | reading 12.1 - 12.3 | 2020.01.10 |
 | ✅ | lec23 video: Concurrent programming  | 2020.01.15 |
-| ✅ | reading 12.4 - 12.5.1-3 | - |
+| ✅ | reading 12.4 - 12.5.1-3 | 2020.01.21 |
 | 🙈 | lab6: malloc Lab | - |
-| 🙈 | lec24 video: Synchronization: Basic  | - |
-| 🙈 | reading 12.5.4-5 - 12.7-8 | - |
+| ✅ | lec24 video: Synchronization: Basic  | 2020.01.22 |
+| ✅ | reading 12.5.4-5 - 12.7-8 | 2020.01.25 |
 | 🙈 | lec25 video: Synchronization: Advanced  | - |
 | 🙈 | reading 12.6 | - |
 | 🙈 | lec26 video: Thread-Level Parallelism  | - |
-| 🙈 | lec27 video: Future of Computing I   | - |
-| 🙈 | lec26 video: Future of Computing II  | - |
 | 🙈 | lab7: proxy Lab | - |
