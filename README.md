@@ -60,7 +60,7 @@
 | 🙈 | lab6: malloc Lab | - |
 | ✅ | lec24 video: Synchronization: Basic  | 2020.01.22 |
 | ✅ | reading 12.5.4-5 - 12.7-8 | 2020.01.25 |
-| 🙈 | lec25 video: Synchronization: Advanced  | - |
+| ✅ | lec25 video: Synchronization: Advanced  | 2020.01.26 |
 | 🙈 | reading 12.6 | - |
 | 🙈 | lec26 video: Thread-Level Parallelism  | - |
 | 🙈 | lab7: proxy Lab | - |
