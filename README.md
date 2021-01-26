@@ -61,6 +61,6 @@
 | ✅ | lec24 video: Synchronization: Basic  | 2020.01.22 |
 | ✅ | reading 12.5.4-5 - 12.7-8 | 2020.01.25 |
 | ✅ | lec25 video: Synchronization: Advanced  | 2020.01.26 |
-| 🙈 | reading 12.6 | - |
+| ✅ | reading 12.6 | 2021.01.28 |
 | 🙈 | lec26 video: Thread-Level Parallelism  | - |
 | 🙈 | lab7: proxy Lab | - |
