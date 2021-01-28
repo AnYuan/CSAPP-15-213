@@ -54,13 +54,13 @@
 | ✅ | lec21 video: Network Programming (Part I)  | 2020.11.20 |
 | ✅ | reading 11.5 - 11.6 | 2020.11.23 |
 | ✅ | lec22 video: Network Programming (Part II)  | 2020.11.27 |
-| ✅ | reading 12.1 - 12.3 | 2020.01.10 |
-| ✅ | lec23 video: Concurrent programming  | 2020.01.15 |
-| ✅ | reading 12.4 - 12.5.1-3 | 2020.01.21 |
+| ✅ | reading 12.1 - 12.3 | 2021.01.10 |
+| ✅ | lec23 video: Concurrent programming  | 2021.01.15 |
+| ✅ | reading 12.4 - 12.5.1-3 | 2021.01.21 |
 | 🙈 | lab6: malloc Lab | - |
-| ✅ | lec24 video: Synchronization: Basic  | 2020.01.22 |
-| ✅ | reading 12.5.4-5 - 12.7-8 | 2020.01.25 |
-| ✅ | lec25 video: Synchronization: Advanced  | 2020.01.26 |
+| ✅ | lec24 video: Synchronization: Basic  | 2021.01.22 |
+| ✅ | reading 12.5.4-5 - 12.7-8 | 2021.01.25 |
+| ✅ | lec25 video: Synchronization: Advanced  | 2021.01.26 |
 | ✅ | reading 12.6 | 2021.01.28 |
-| 🙈 | lec26 video: Thread-Level Parallelism  | - |
+| ✅ | lec26 video: Thread-Level Parallelism  | 2021.01.28 |
 | 🙈 | lab7: proxy Lab | - |
