@@ -64,3 +64,4 @@
 | ✅ | reading 12.6 | 2021.01.28 |
 | ✅ | lec26 video: Thread-Level Parallelism  | 2021.01.28 |
 | 🙈 | lab7: proxy Lab | - |
+| ✅ | Future of Computing | 2021.01.29 |
